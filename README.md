@@ -1,9 +1,9 @@
-let arr = []
-arr [0] = 1
-arr [1] = "UKD"
-arr [2] = NaN
-arr [3] = true
-arr [4] = "undefined"
+let a = []
+a [0] = 1
+a [1] = "UKD"
+a [2] = NaN
+a [3] = true
+a [4] = "undefined"
  let me = {
  name: "Sasha"
  surname: "Lavruk"
